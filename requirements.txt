@@ -2,5 +2,6 @@ matplotlib
 pandas
 scipy
 scikit-learn
+seaborn
 shap
 eli5
