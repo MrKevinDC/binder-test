@@ -1,9 +1,0 @@
-matplotlib==3.5.1
-matplotlib-colorbar==0.4.0
-matplotlib-inline==0.1.3
-matplotlib-venn==0.11.7
-pandas==0.23.0
-scikit-learn==1.0.1
-scipy==1.7.1
-seaborn==0.11.2
-shap==0.41.0
